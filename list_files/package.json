@@ -1,0 +1,13 @@
+{
+  "name": "list_files",
+  "version": "1.0.0",
+  "description": "File path to array using Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Lucas Saliés Brum <sistematico@gmail.com> (https://lucasbrum.net/)",
+  "license": "ISC"
+}
