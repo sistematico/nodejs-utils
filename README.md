@@ -1,7 +1,8 @@
 # Node.js Utils
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sistematico/nodejs-utils/main/.assets/nodejs.svg" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/sistematico/nodejs-utils/main/.assets/nodejs.svg#gh-dark-mode-only" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/sistematico/nodejs-utils/main/.assets/nodejs-light.svg#gh-light-mode-only" alt="Node.js" />
 </p>
 
 Snippets simples em [Node.js](https://nodejs.org) para tarefas do dia-a-dia.
