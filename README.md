@@ -10,6 +10,7 @@ Snippets simples em [Node.js](https://nodejs.org) para tarefas do dia-a-dia.
 
 - [Listagem de Arquivos para Array](list_files)
 - [Listagem recursiva de Arquivos para Array](list_files_recursive)
+- [Listagem recursiva de Arquivos para Objeto](list_files_recursive_json)
 
 ## Material de Exemplo
 
